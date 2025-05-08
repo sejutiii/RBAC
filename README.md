@@ -25,7 +25,7 @@ A Spring Boot application demonstrating Clean Architecture principles for a basi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/sejutiii/RBAC
    cd RBAC
    mvn clean install
    mvn spring-boot:run
